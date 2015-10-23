@@ -104,7 +104,7 @@
 				</dict>
 			</dict>
 			<key>match</key>
-			<string>(?:^| |\t)(Host)\s+((.*))$</string>
+			<string>(?:^| |\t)(Host|Hostname)\s+((.*))$</string>
 		</dict>
 		<dict>
 			<key>match</key>
